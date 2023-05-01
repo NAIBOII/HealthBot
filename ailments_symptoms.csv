@@ -1,0 +1,101 @@
+ailments,symptoms
+bronchitis,"chest pain, fatigue, vomiting, shortness of breath"
+ulcer,"fatigue, shortness of breath, dryness, tingling"
+cold,"fatigue, vomiting, scaling, blurred vision"
+bronchitis,"scaling, tingling"
+arthritis,chest pain
+eczema,"fatigue, muscle aches, cough"
+cold,"joint pain, fever, nausea, shortness of breath"
+psoriasis,fatigue
+conjunctivitis,"tearing, scaling, tingling, dizziness"
+fracture,"headache, shortness of breath, blurred vision"
+tonsillitis,ear pain
+fracture,"cough, fever, ear pain, numbness"
+headache,"fatigue, blurred vision"
+conjunctivitis,"vomiting, throat pain, cough"
+fracture,"dryness, cough, swelling, tearing"
+diabetes,"dizziness, runny nose, blurred vision, cough"
+eczema,chest pain
+diabetes,"stiffness, cough, runny nose"
+stomachache,"ear pain, throat pain"
+tonsillitis,"stiffness, chest pain, headache, numbness"
+fracture,tearing
+ear infection,"nausea, dryness"
+flu,"vomiting, tingling, fever, tearing"
+diabetes,muscle aches
+sinus infection,"joint pain, shortness of breath, dizziness"
+acne,joint pain
+asthma,"headache, fever"
+ear infection,"nausea, shortness of breath, dizziness, headache"
+sinus infection,"blurred vision, fever, nausea"
+migraine,scaling
+acne,"shortness of breath, dizziness"
+rash,"joint pain, dizziness, scaling, wheezing"
+sprain,"cough, vomiting"
+asthma,wheezing
+asthma,"itching, scaling"
+fracture,"dryness, runny nose, headache"
+fracture,"runny nose, shortness of breath"
+sinus infection,"joint pain, wheezing"
+pneumonia,cough
+asthma,ear pain
+acne,"blurred vision, numbness"
+rash,"tearing, dizziness, blurred vision, vomiting"
+hypertension,"fatigue, swelling, ear pain, cough"
+eczema,"fever, vomiting, blurred vision"
+rash,"muscle aches, wheezing, itching, blurred vision"
+pneumonia,"swelling, blurred vision, stiffness, redness"
+sinus infection,"shortness of breath, swelling"
+rash,"chest pain, cough, numbness"
+flu,"ear pain, numbness, redness, fatigue"
+rash,"stiffness, runny nose"
+allergies,"ear pain, redness"
+tonsillitis,"scaling, itching, shortness of breath, headache"
+conjunctivitis,"stiffness, redness, shortness of breath, headache"
+flu,"cough, wheezing"
+rash,"ear pain, itching, runny nose"
+toothache,"nausea, numbness, scaling"
+headache,"redness, itching, shortness of breath, nausea"
+diabetes,"wheezing, stiffness"
+headache,"numbness, tingling, vomiting"
+psoriasis,"tearing, cough, vomiting, wheezing"
+back pain,"swelling, runny nose, tingling"
+sprain,"scaling, dizziness, numbness"
+toothache,muscle aches
+rash,"throat pain, swelling, ear pain"
+rash,"fever, joint pain"
+psoriasis,"joint pain, wheezing"
+bronchitis,"itching, headache, redness, blurred vision"
+bronchitis,joint pain
+migraine,"cough, joint pain, fever, runny nose"
+psoriasis,"nausea, tearing"
+ear infection,shortness of breath
+sinus infection,wheezing
+bronchitis,"muscle aches, scaling"
+ulcer,"swelling, shortness of breath, chest pain"
+acne,"dryness, ear pain"
+arthritis,"numbness, tingling, shortness of breath, wheezing"
+cold,"stiffness, dizziness, scaling, itching"
+cold,"redness, fever"
+bronchitis,"dryness, headache"
+diabetes,stiffness
+migraine,throat pain
+fracture,"nausea, swelling, joint pain, headache"
+ear infection,ear pain
+allergies,"stiffness, cough, tearing"
+headache,wheezing
+fracture,"scaling, vomiting, wheezing"
+pneumonia,"tearing, wheezing, stiffness, cough"
+allergies,"numbness, ear pain"
+hypertension,"nausea, tingling, chest pain, shortness of breath"
+pneumonia,vomiting
+flu,dizziness
+conjunctivitis,"fatigue, scaling, headache"
+toothache,"muscle aches, dryness"
+arthritis,joint pain
+flu,"chest pain, fever, redness, blurred vision"
+eczema,"muscle aches, throat pain, cough"
+rash,"chest pain, scaling, redness"
+bronchitis,shortness of breath
+allergies,dryness
+migraine,runny nose
